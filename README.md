@@ -1,0 +1,1 @@
+# Effective-Distance-Determines-Voltage-Collapse-in-Power-Grid-Networks
