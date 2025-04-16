@@ -1,6 +1,4 @@
-========================================================
- Effective Distance Determines Voltage Collapse in Power-Grid Networks
-========================================================
+# Effective Distance Determines Voltage Collapse in Power-Grid Networks
 
 Version: 1.0
 
