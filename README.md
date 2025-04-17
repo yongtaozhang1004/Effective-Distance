@@ -11,7 +11,6 @@ Authors: Yongtao Zhang  <yongtaozhang90@gmail.com>
 
 ------------------------------------------------------------------------
 When using these data and code, please cite the original publication: Y. Zhang, H. Zhang, S. He, C. Duan, Y. Sun, J. Chen, A. E. Motter, and J. Gao, Effective Distance Determines Voltage Collapse in Power-Grid Networks.
-------------------------------------------------------------------------
 
 The folder Figure1 ----> provides data and code to reproduce figures shown in Fig. 1.
 
